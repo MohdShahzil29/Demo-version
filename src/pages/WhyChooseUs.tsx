@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { CheckCircle, Layers, Zap, ShieldCheck } from "lucide-react";
+// import { CheckCircle, Layers, Zap, ShieldCheck } from "lucide-react";
 import Layout from "./Layout";
 
 const features = [

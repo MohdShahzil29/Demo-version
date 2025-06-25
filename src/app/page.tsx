@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Navbar from "../pages/Navbar";
 import HeroSection from "@/pages/HeroSection";
 import WhyChooseUs from "@/pages/WhyChooseUs";
